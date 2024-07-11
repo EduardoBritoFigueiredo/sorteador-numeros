@@ -1,5 +1,10 @@
 # sorteador-numeros
+
 Desenvolvimento de um web app com Javascript, HTML e CSS durante desafios práticos da formação em lógica de programação básica na Alura.
+
+## SNAPSHOTS
+
+![printscreen do app](/img/printscreen%20sorteador-de-numeros.png)
 
 ## TECHNOLOGIES
 
