@@ -6,6 +6,8 @@ Desenvolvimento de um web app com Javascript, HTML e CSS durante desafios práti
 
 ![printscreen do app](/img/printscreen%20sorteador-de-numeros.png)
 
+Acesse [aqui](https://eduardobritofigueiredo.github.io/sorteador-numeros) para ver como ficou o web app.
+
 ## TECHNOLOGIES
 
 - ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
